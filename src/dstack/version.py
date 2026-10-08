@@ -3,8 +3,8 @@
 # If you are making any changes,
 # remember to update and test the build-artifacts.yml workflow.
 
-__version__ = "0.0.0"
-__is_release__ = False
+__version__ = "0.22.2"
+__is_release__ = True
 docker_base_image = "0.15"
 docker_base_image_ubuntu_version = "24.04"
 vm_base_image = "0.14"
